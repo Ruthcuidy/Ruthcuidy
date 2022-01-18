@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ruth
+- 👀 I’m interested in Digital image processing
+- 🌱 I’m currently learning Redes Neurais Convolucionais
+- 📫 How to reach me ruthevox28@gmail.com
